@@ -1,0 +1,26 @@
+_repo: Poems-1817_8209
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keats, John
+    birthdate: 1795
+    deathdate: 1821
+    gutenberg_agent_id: '935'
+    url: http://www.gutenberg.org/2009/agents/935
+    wikipedia: http://en.wikipedia.org/wiki/John_Keats
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- GITenberg
+title: Poems 1817
+url: http://www.gutenberg.org/ebooks/8209
